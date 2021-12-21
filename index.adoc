@@ -1,0 +1,53 @@
+:numbered:
+:doctype: book
+:icons: font
+
+= Français - Suédois
+
+== Introduction
+
+Ce document servira principalement de rappel concernant les traductions du français vers le suédois.
+
+== Prépositions
+
+|===
+| Français | Suédois
+| à | på ; till ; i
+| de | från
+| pour | för ; till
+| sur | i ; mot ; på ; till ; vid ; at
+| dans | i ; på ; ur
+| avec |
+| en |
+| par |
+| parmi |
+|===
+
+
+[.underline]#*Exemples pour les mots ayant plusieurs définitions suédoises*#
+
+[.underline]#à :#
+
+[.underline]#pour :#
+
+[.underline]#sur :#
+
+[.underline]#dans :#
+
+
+
+
+
+== Conjonctions de coordination
+
+|===
+| Français | Suédois
+| mais |
+| où |
+| et |
+| donc |
+| or |
+| ni |
+| car	 |
+|===
+
