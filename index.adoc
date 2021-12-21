@@ -8,46 +8,56 @@
 
 Ce document servira principalement de rappel concernant les traductions du français vers le suédois.
 
+
 == Prépositions
 
 |===
-| Français | Suédois
-| à | på ; till ; i
-| de | från
-| pour | för ; till
-| sur | i ; mot ; på ; till ; vid ; at
-| dans | i ; på ; ur
-| avec |
-| en |
-| par |
-| parmi |
+| Français | Suédois | Conditions
+.3+| à | på ; till ; i | En rapport avec un lieu - <<exemple-a-lieu, Exemples>>
+| i ; på ; vid | En rapport avec le temps
+| av ; enligt ; i ; med ; mot ; på ; till ; at | Cas général
+.2+| de | från | En rapport avec un lieu
+| från ; på ; i | En rapport avec le temps
+| pour | för ; till |
+| sur | i ; mot ; på ; till ; vid ; at |
+| dans | i ; på ; ur |
+| avec | med |
+| en | därifrån ; den (det, dem) |
+| par | genom ; över ; via ; per |
+| parmi | bland |
 |===
 
+== Conjonctions de coordination
 
-[.underline]#*Exemples pour les mots ayant plusieurs définitions suédoises*#
+|===
+| Français | Suédois
+| mais | men ; utan
+| où | var ; vart
+| et | och
+| donc | alltså ; således
+| or | men
+| ni | varken
+| car | ty
+|===
 
-[.underline]#à :#
+== Exemples
+
+[[exemple-a-lieu]][.underline]#*à* (en rapport avec un lieu)#
+
+* Elle habite à Paris -> Hon bor i Paris
+* Au deuxième étage -> på andra våningen
+* Aller à Londres -> reasa till London
+* À droite -> till höger
+* Au pied de la montagne -> vid bergets fot
+
+[.underline]#*de* (en rapport avec un lieu)#
+
+* Le train de Paris -> tåget från Paris
+* D'où vient-elle ? -> varifrån kommer hon ?
+
 
 [.underline]#pour :#
 
 [.underline]#sur :#
 
 [.underline]#dans :#
-
-
-
-
-
-== Conjonctions de coordination
-
-|===
-| Français | Suédois
-| mais |
-| où |
-| et |
-| donc |
-| or |
-| ni |
-| car	 |
-|===
-
