@@ -1,21 +1,23 @@
 :numbered:
 :doctype: book
 :icons: font
+:toc: left
 
 = Français - Suédois
 
 == Introduction
 
-Ce document servira principalement de rappel concernant les traductions du français vers le suédois.
-
+Ce document n'a aucune connotation officielle. Nous devrions meme dire que ce document n'a aucune valeur
+sauf pour celui-ci lui en considérant. Ceci me permet principalement d'avoir un référentiel pour apprendre correctement
+le suédois.
 
 == Prépositions
 
 |===
 | Français | Suédois | Conditions
-.3+| à | på ; till ; i | En rapport avec un lieu - <<exemple-a-lieu, Exemples>>
-| i ; på ; vid | En rapport avec le temps
-| av ; enligt ; i ; med ; mot ; på ; till ; at | Cas général
+.3+| à | på ; till ; i | En rapport avec un lieu : <<exemples-a-lieu,Exemples>>
+| i ; på ; vid | En rapport avec le temps : <<exemples-a-temps,Exemples>>
+| av ; enligt ; i ; med ; mot ; på ; till ; at | Cas général : <<exemples-a-cas-general,Exemples>>
 .2+| de | från | En rapport avec un lieu
 | från ; på ; i | En rapport avec le temps
 | pour | för ; till |
@@ -42,13 +44,27 @@ Ce document servira principalement de rappel concernant les traductions du fran�
 
 == Exemples
 
-[[exemple-a-lieu]][.underline]#*à* (en rapport avec un lieu)#
+[[exemples-a-lieu]][.underline]#*à* (en rapport avec un lieu)#
 
 * Elle habite à Paris -> Hon bor i Paris
 * Au deuxième étage -> på andra våningen
 * Aller à Londres -> reasa till London
 * À droite -> till höger
 * Au pied de la montagne -> vid bergets fot
+
+[[exemples-a-temps]][.underline]#*à* (en rapport avec le temps)#
+
+* À ton age -> i din ålder
+* Venir à l'heure -> komma i tid
+* À Paques -> i påsk
+* À six heures -> klockan sex
+
+[[exemples-a-cas-general]][.underline]#*à* (cas général)#
+
+* Emprunter de l'argent à quelqu'un -> låna pengar av någon
+* Face à face -> ansikte mot ansikte
+* À pieds -> till fots
+* Un ami à moi -> en vän till mig
 
 [.underline]#*de* (en rapport avec un lieu)#
 
